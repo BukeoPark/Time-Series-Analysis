@@ -1,0 +1,2 @@
+model,train_start,train_end,alpha,initial_level,final_level,train_sse,train_rmse
+SimpleExpSmoothing,2011-01-01,2011-10-31,0.03501358825085112,18563.862536576336,33018.950798987986,82582844153.74254,16481.932308166877
